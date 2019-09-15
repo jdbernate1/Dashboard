@@ -1,0 +1,10 @@
+body {
+	background-color:#0e0e2b;	
+	color:white;
+	width: 100%;
+}
+
+#Dashboard {
+	margin-left: 10%;
+	margin-right: 10%;
+}
